@@ -20,4 +20,4 @@ return 0;
 
 >i dislike english, CET4,I passed it once,but CET6 i  failed to pass twice.
 
-#oh,My  english  is  Chines English, so Chinese can know my means.  
+# oh,My  english  is  Chines English, so Chinese can know my means.  
